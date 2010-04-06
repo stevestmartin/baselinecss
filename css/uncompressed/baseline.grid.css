@@ -46,8 +46,7 @@ section				{ padding-bottom: 18px; }
 
 /******************** Forms ********************/
 label.width1, label.width2,
-label.width3, label.width4		{ margin-left: 18px; float: left; }
-
+label.width3, label.width4,
 label.unitx1, label.unitx2,
 label.unitx3, label.unitx4,
 label.unitx5, label.unitx6,
