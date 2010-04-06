@@ -31,7 +31,7 @@ header, section	{ padding-bottom: 18px; }
 .unitx5				    { width: 612px; } /* 51em */
 .unitx6, .width3	{ width: 738px; } /* 61.5em */
 .unitx7				    { width: 864px; } /* 72em */
-.unitx8, .width3  { width: 990px; margin-left: 0 !important; } /* 82.5em */
+.unitx8, .width4  { width: 990px; margin-left: 0 !important; } /* 82.5em */
 
 /* CSS3 columns */
 .columnsx2			{ -webkit-column-count: 2; -webkit-column-gap: 18px; -moz-column-count: 2; -moz-column-gap: 18px; column-count: 2; column-gap: 18px; }
