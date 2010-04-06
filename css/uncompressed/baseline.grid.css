@@ -44,23 +44,6 @@ section				{ padding-bottom: 18px; }
 .columnsx2			{ -webkit-column-count: 2; -webkit-column-gap: 18px; -moz-column-count: 2; -moz-column-gap: 18px; column-count: 2; column-gap: 18px; }
 .columnsx4			{ -webkit-column-count: 4; -webkit-column-gap: 18px; -moz-column-count: 4; -moz-column-gap: 18px; column-count: 4; column-gap: 18px; }
 
-/******************** Table ********************/
-/* Columns */
-th.width1, td.width1			{ width: 234px; }
-th.width2, td.width2			{ width: 486px; }
-th.width3, td.width3			{ width: 738px; }
-th.width4, td.width4			{ width: 990px; }
-
-/* Units */
-th.width1, td.width1			{ width: 108px; }
-th.unitx2, td.unitx2			{ width: 234px; }
-th.unitx3, td.unitx3			{ width: 360px; }
-th.unitx4, td.unitx4			{ width: 486px; }
-th.unitx5, td.unitx5			{ width: 612px; }
-th.unitx6, td.unitx6			{ width: 738px; }
-th.unitx7, td.unitx7			{ width: 864px; }
-th.unitx8, td.unitx8			{ width: 990px; }
-
 /******************** Forms ********************/
 label.width1, label.width2,
 label.width3, label.width4		{ margin-left: 18px; float: left; }
