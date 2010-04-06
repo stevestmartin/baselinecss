@@ -9,7 +9,6 @@ table								{ border-collapse: collapse; border-top: solid 3px #000; position: 
 
 th, td								{ line-height: 18px; padding: 9px 18px 8px 0; }
 thead th, thead td					{ padding-top: 7px; }
-tfoot th, tfoot td					{ padding-bottom: 8px; }
 tbody th, tbody td,
 tfoot th, tfoot td					{ border-top: solid 1px #000; }
  
