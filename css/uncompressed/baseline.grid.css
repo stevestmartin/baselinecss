@@ -2,6 +2,7 @@
 Baseline - a designer framework
 Copyright (C) 2009 Stephane Curzi, ProjetUrbain.com
 Creative Commons Attribution-Share Alike 3.0 License
+version 0.5.3
 */
 
 /******************** Grid ********************/
@@ -52,7 +53,7 @@ th.width3, td.width3			{ width: 738px; }
 th.width4, td.width4			{ width: 990px; }
 
 /* Units */
-th.width1, td.width1			{ width: 108px; }
+th.unitx1, th.unitx1			{ width: 108px; }
 th.unitx2, td.unitx2			{ width: 234px; }
 th.unitx3, td.unitx3			{ width: 360px; }
 th.unitx4, td.unitx4			{ width: 486px; }

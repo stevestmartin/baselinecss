@@ -3,6 +3,12 @@ Baseline - a designer framework by ProjetUrbain.com
 Copyright (C) 2009 Stephane Curzi, ProjetUrbain.com
 Creative Commons Attribution-Share Alike 3.0 License
 
+Version 0.5.3
+- Fix an error on baseline.grid.css, thanks Ryan Souza
+
+Version 0.5.2
+- Remove float on header, section, footer... in baseline.base.css
+
 Version 0.5.1
 - Fix a bug introduced in version 0.5 in baseline.grid.css
 
