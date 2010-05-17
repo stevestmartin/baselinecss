@@ -5,8 +5,8 @@ Creative Commons Attribution-Share Alike 3.0 License
 */
 
 /******************** Grid ********************/
-#page				{ width: 990px; position: relative; } /* 82.5em */
-#page:after	{ content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.container				{ width: 990px; position: relative; } /* 82.5em */
+.container:after	{ content: "."; display: block; height: 0; clear: both; visibility: hidden; }
 
 /* Base column markup */
 .column				  { margin-left: 18px; display: block; float: left; } /* 1.5em */

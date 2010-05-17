@@ -9,14 +9,14 @@ body								{ -webkit-text-size-adjust: none; padding: 0 18px; }
 
 /******************** Reset Baseline styles ********************/
 /* reset type element */
-p									{ word-spacing: 0; margin-bottom: 18px; }
+p									  { word-spacing: 0; margin-bottom: 18px; }
 p+p									{ text-indent: 0; }
 pre									{ top: 6px !important; }
-input, select, textarea				{ font-size: 13px; }
+input, select, textarea			{ font-size: 13px; }
 ul, ol, dl, dialog					{ margin-top: 0; }
 
 /* reset grid elements */
-#page								{ width: 100%; position: relative; }
+.container						{ width: 100%; position: relative; }
 .column								{ margin-left: 0; display: block; float: none; }
 .unitx1, .unitx2, .unitx3,
 .unitx4, .unitx5, .unitx6,
@@ -24,7 +24,7 @@ ul, ol, dl, dialog					{ margin-top: 0; }
 
 /* reset table-column elements */
 table								{ width: 100%; }
-th, td								{ width: 25% !important; }
+th, td							{ width: 25% !important; }
 
 /* Units */
 .table-unit th, .table-unit td		{ width: 12%; }
