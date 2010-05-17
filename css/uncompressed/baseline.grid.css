@@ -47,18 +47,18 @@ label.unitx7, label.unitx8		{ margin-left: 18px; float: left; }
 label.first						        { margin-left: 0; }
 label.width4, label.unitx8		{ width: 990px; overflow: hidden; }
 
-label.unitx1 input[type="text"], label.unitx1 input[type="password"], label.unitx1 input[type="select"], label.unitx1 input[type="search"]	{ width: 102px; }
-label.width1 input[type="text"], label.width1 input[type="password"], label.width1 input[type="select"], label.width1 input[type="search"],
-label.unitx2 input[type="text"], label.unitx2 input[type="password"], label.unitx2 input[type="select"], label.unitx2 input[type="search"]	{ width: 228px; }
-label.unitx3 input[type="text"], label.unitx3 input[type="password"], label.unitx3 input[type="select"], label.unitx3 input[type="search"]	{ width: 354px; }
-label.width2 input[type="text"], label.width2 input[type="password"], label.width2 input[type="select"], label.width2 input[type="search"],
-label.unitx4 input[type="text"], label.unitx4 input[type="password"], label.unitx4 input[type="select"], label.unitx4 input[type="search"]	{ width: 480px; }
-label.unitx5 input[type="text"], label.unitx5 input[type="password"], label.unitx5 input[type="select"], label.unitx5 input[type="search"]	{ width: 606px; }
-label.width3 input[type="text"], label.width3 input[type="password"], label.width3 input[type="select"], label.width3 input[type="search"],
-label.unitx6 input[type="text"], label.unitx6 input[type="password"], label.unitx6 input[type="select"], label.unitx6 input[type="search"]	{ width: 732px; }
-label.unitx7 input[type="text"], label.unitx7 input[type="password"], label.unitx7 input[type="select"], label.unitx7 input[type="search"]	{ width: 858px; }
-label.width4 input[type="text"], label.width4 input[type="password"], label.width4 input[type="select"], label.width4 input[type="search"],
-label.unitx8 input[type="text"], label.unitx8 input[type="password"], label.unitx8 input[type="select"], label.unitx8 input[type="search"]	{ width: 984px; }
+label.unitx1 input[type="text"], label.unitx1 input[type="password"], label.unitx1 input[type="search"]	{ width: 102px; }
+label.width1 input[type="text"], label.width1 input[type="password"], label.width1 input[type="search"],
+label.unitx2 input[type="text"], label.unitx2 input[type="password"], label.unitx2 input[type="search"]	{ width: 228px; }
+label.unitx3 input[type="text"], label.unitx3 input[type="password"], label.unitx3 input[type="search"]	{ width: 354px; }
+label.width2 input[type="text"], label.width2 input[type="password"], label.width2 input[type="search"],
+label.unitx4 input[type="text"], label.unitx4 input[type="password"], label.unitx4 input[type="search"]	{ width: 480px; }
+label.unitx5 input[type="text"], label.unitx5 input[type="password"], label.unitx5 input[type="search"]	{ width: 606px; }
+label.width3 input[type="text"], label.width3 input[type="password"], label.width3 input[type="search"],
+label.unitx6 input[type="text"], label.unitx6 input[type="password"], label.unitx6 input[type="search"]	{ width: 732px; }
+label.unitx7 input[type="text"], label.unitx7 input[type="password"], label.unitx7 input[type="search"]	{ width: 858px; }
+label.width4 input[type="text"], label.width4 input[type="password"], label.width4 input[type="search"],
+label.unitx8 input[type="text"], label.unitx8 input[type="password"], label.unitx8 input[type="search"]	{ width: 984px; }
 
 label.unitx1 select				{ width: 108px; }
 label.width1 select,
