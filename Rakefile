@@ -6,4 +6,6 @@ task :compress do
   input_files.each do |file|
     output_file.write(`java -jar bin/yuicompressor-2.4.2.jar css/uncompressed/#{file}`)
   end
+
+  `java -jar bin/yuicompressor-2.4.2.jar css/iphone/baseline.iphone.css > css/compressed/baseline.iphone.compress.css`
 end
